@@ -1,0 +1,30 @@
+.contenedor  div {
+    display: flex;
+    width: 100rem;
+    height: 10rem;
+    background-color: #ff75a1;
+}
+
+.contenedor div div{
+    width: 10rem;
+    height: 10rem;
+    background-color: #FC2367;
+}
+
+#space-around {
+    justify-content: space-around;
+}
+
+#space-between {
+    justify-content: space-between;
+}
+
+#space-evenly {
+    justify-content:space-evenly;
+}
+
+p{
+    font-size: 2rem;
+    font-weight: bold;
+    color:#ff75a1;
+}
